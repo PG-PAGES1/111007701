@@ -1,0 +1,125 @@
+
+anniu.png
+size: 815,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sb_click_light/sb_vfx_a_add_00
+  rotate: true
+  xy: 702, 154
+  size: 41, 42
+  orig: 226, 226
+  offset: 89, 94
+  index: -1
+sb_click_light/sb_vfx_a_add_01
+  rotate: false
+  xy: 749, 115
+  size: 63, 80
+  orig: 226, 226
+  offset: 79, 74
+  index: -1
+sb_click_light/sb_vfx_a_add_02
+  rotate: false
+  xy: 549, 8
+  size: 122, 124
+  orig: 226, 226
+  offset: 52, 48
+  index: -1
+sb_click_light/sb_vfx_a_add_03
+  rotate: false
+  xy: 421, 3
+  size: 126, 128
+  orig: 226, 226
+  offset: 50, 46
+  index: -1
+sb_click_light/sb_vfx_a_add_04
+  rotate: true
+  xy: 284, 3
+  size: 128, 135
+  orig: 226, 226
+  offset: 50, 45
+  index: -1
+sb_click_light/sb_vfx_a_add_05
+  rotate: true
+  xy: 144, 3
+  size: 128, 138
+  orig: 226, 226
+  offset: 50, 44
+  index: -1
+sb_click_light/sb_vfx_a_add_06
+  rotate: false
+  xy: 2, 132
+  size: 128, 140
+  orig: 226, 226
+  offset: 50, 43
+  index: -1
+sb_click_light/sb_vfx_a_add_07
+  rotate: true
+  xy: 2, 2
+  size: 128, 140
+  orig: 226, 226
+  offset: 50, 43
+  index: -1
+sb_click_light/sb_vfx_a_add_08
+  rotate: false
+  xy: 132, 133
+  size: 124, 139
+  orig: 226, 226
+  offset: 51, 45
+  index: -1
+sb_click_light/sb_vfx_a_add_09
+  rotate: false
+  xy: 258, 133
+  size: 124, 139
+  orig: 226, 226
+  offset: 51, 45
+  index: -1
+sb_click_light/sb_vfx_a_add_10
+  rotate: false
+  xy: 384, 133
+  size: 77, 139
+  orig: 226, 226
+  offset: 80, 45
+  index: -1
+sb_click_light/sb_vfx_a_add_11
+  rotate: false
+  xy: 603, 135
+  size: 75, 137
+  orig: 226, 226
+  offset: 81, 46
+  index: -1
+sb_click_light/sb_vfx_a_add_12
+  rotate: true
+  xy: 680, 197
+  size: 75, 133
+  orig: 226, 226
+  offset: 81, 48
+  index: -1
+sb_click_light/sb_vfx_a_add_13
+  rotate: false
+  xy: 673, 23
+  size: 74, 110
+  orig: 226, 226
+  offset: 81, 49
+  index: -1
+sb_click_light/sb_vfx_a_add_14
+  rotate: true
+  xy: 680, 138
+  size: 57, 20
+  orig: 226, 226
+  offset: 97, 138
+  index: -1
+sb_click_light/sb_vfx_a_add_15
+  rotate: false
+  xy: 702, 141
+  size: 10, 11
+  orig: 226, 226
+  offset: 144, 147
+  index: -1
+sb_hover_light/m_hover_01_add
+  rotate: false
+  xy: 463, 134
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1

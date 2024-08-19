@@ -1,0 +1,76 @@
+
+gane bg1.png
+size: 1366,1082
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_light/bw_vfx_d_add
+  rotate: true
+  xy: 684, 91
+  size: 100, 375
+  orig: 100, 375
+  offset: 0, 0
+  index: -1
+mg_footer_part/ui_bottom_bg
+  rotate: false
+  xy: 1061, 42
+  size: 98, 149
+  orig: 98, 149
+  offset: 0, 0
+  index: -1
+mg_footer_part/ui_bottom_fg
+  rotate: false
+  xy: 2, 2
+  size: 680, 180
+  orig: 680, 180
+  offset: 0, 0
+  index: -1
+mg_footer_part/ui_top_hot_ballon_01
+  rotate: false
+  xy: 1172, 101
+  size: 148, 221
+  orig: 680, 221
+  offset: 461, 0
+  index: -1
+mg_footer_part/ui_top_hot_ballon_02
+  rotate: true
+  xy: 684, 5
+  size: 84, 96
+  orig: 680, 277
+  offset: 565, 181
+  index: -1
+mg_footer_part/ui_top_pondium
+  rotate: false
+  xy: 684, 324
+  size: 680, 335
+  orig: 680, 419
+  offset: 0, 0
+  index: -1
+mg_part/ui_bottom_bloom_screen
+  rotate: false
+  xy: 684, 193
+  size: 486, 129
+  orig: 486, 129
+  offset: 0, 0
+  index: -1
+mg_part/ui_footer
+  rotate: false
+  xy: 2, 184
+  size: 680, 421
+  orig: 680, 421
+  offset: 0, 0
+  index: -1
+mg_part/ui_reel
+  rotate: false
+  xy: 2, 607
+  size: 680, 473
+  orig: 680, 473
+  offset: 0, 0
+  index: -1
+mg_part/ui_top_sky
+  rotate: false
+  xy: 684, 661
+  size: 680, 419
+  orig: 680, 419
+  offset: 0, 0
+  index: -1

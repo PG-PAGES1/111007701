@@ -1,0 +1,503 @@
+
+xuanze.png
+size: 1538,1369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_light/smw_vfx_b_add
+  rotate: true
+  xy: 2, 343
+  size: 292, 229
+  orig: 292, 229
+  offset: 0, 0
+  index: -1
+bw_light/smw_vfx_e_screen
+  rotate: false
+  xy: 1017, 862
+  size: 141, 146
+  orig: 141, 146
+  offset: 0, 0
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_00
+  rotate: true
+  xy: 1028, 1010
+  size: 146, 155
+  orig: 486, 380
+  offset: 170, 18
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_01
+  rotate: false
+  xy: 944, 655
+  size: 146, 205
+  orig: 486, 380
+  offset: 170, 0
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_02
+  rotate: false
+  xy: 630, 324
+  size: 146, 312
+  orig: 486, 380
+  offset: 170, 18
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_03
+  rotate: false
+  xy: 448, 41
+  size: 146, 325
+  orig: 486, 380
+  offset: 170, 18
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_04
+  rotate: false
+  xy: 300, 26
+  size: 146, 332
+  orig: 486, 380
+  offset: 170, 18
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_05
+  rotate: false
+  xy: 2, 3
+  size: 148, 338
+  orig: 486, 380
+  offset: 168, 18
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_06
+  rotate: false
+  xy: 152, 7
+  size: 146, 334
+  orig: 486, 380
+  offset: 170, 21
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_07
+  rotate: false
+  xy: 596, 2
+  size: 146, 320
+  orig: 486, 380
+  offset: 170, 22
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_08
+  rotate: false
+  xy: 926, 448
+  size: 146, 205
+  orig: 486, 380
+  offset: 170, 22
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_09
+  rotate: true
+  xy: 1185, 1013
+  size: 146, 205
+  orig: 486, 380
+  offset: 170, 22
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_10
+  rotate: false
+  xy: 1092, 655
+  size: 146, 205
+  orig: 486, 380
+  offset: 170, 22
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_11
+  rotate: false
+  xy: 1074, 447
+  size: 146, 206
+  orig: 486, 380
+  offset: 170, 22
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_12
+  rotate: true
+  xy: 1160, 862
+  size: 146, 204
+  orig: 486, 380
+  offset: 170, 25
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_13
+  rotate: false
+  xy: 1240, 656
+  size: 146, 204
+  orig: 486, 380
+  offset: 170, 25
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_14
+  rotate: true
+  xy: 805, 862
+  size: 146, 210
+  orig: 486, 380
+  offset: 170, 21
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_15
+  rotate: false
+  xy: 778, 457
+  size: 146, 210
+  orig: 486, 380
+  offset: 170, 21
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_16
+  rotate: true
+  xy: 814, 1010
+  size: 146, 212
+  orig: 486, 380
+  offset: 170, 21
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_17
+  rotate: false
+  xy: 956, 112
+  size: 144, 210
+  orig: 486, 380
+  offset: 171, 23
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_18
+  rotate: false
+  xy: 1392, 997
+  size: 144, 206
+  orig: 486, 380
+  offset: 171, 27
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_19
+  rotate: false
+  xy: 1388, 662
+  size: 144, 203
+  orig: 486, 380
+  offset: 171, 31
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_20
+  rotate: true
+  xy: 1506, 949
+  size: 46, 26
+  orig: 486, 380
+  offset: 214, 208
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_21
+  rotate: false
+  xy: 233, 344
+  size: 25, 14
+  orig: 486, 380
+  offset: 216, 210
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_22
+  rotate: false
+  xy: 675, 873
+  size: 17, 10
+  orig: 486, 380
+  offset: 221, 214
+  index: -1
+fs_chose_fire/bns_vfx_a_screen_23
+  rotate: false
+  xy: 675, 873
+  size: 17, 10
+  orig: 486, 380
+  offset: 221, 214
+  index: -1
+fs_chose_part/bns_select_canon_a
+  rotate: false
+  xy: 2, 1003
+  size: 268, 364
+  orig: 268, 375
+  offset: 0, 6
+  index: -1
+fs_chose_part/bns_select_canon_b
+  rotate: false
+  xy: 2, 637
+  size: 268, 364
+  orig: 268, 375
+  offset: 0, 6
+  index: -1
+ib_vfx_c_screen
+  rotate: false
+  xy: 1389, 514
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+sb_click_light/sb_vfx_a_add_00
+  rotate: true
+  xy: 1355, 345
+  size: 41, 42
+  orig: 226, 226
+  offset: 89, 94
+  index: -1
+sb_click_light/sb_vfx_a_add_01
+  rotate: false
+  xy: 1342, 69
+  size: 63, 80
+  orig: 226, 226
+  offset: 79, 74
+  index: -1
+sb_click_light/sb_vfx_a_add_02
+  rotate: true
+  xy: 920, 324
+  size: 122, 124
+  orig: 226, 226
+  offset: 52, 48
+  index: -1
+sb_click_light/sb_vfx_a_add_03
+  rotate: false
+  xy: 1102, 99
+  size: 126, 128
+  orig: 226, 226
+  offset: 50, 46
+  index: -1
+sb_click_light/sb_vfx_a_add_04
+  rotate: false
+  xy: 545, 873
+  size: 128, 135
+  orig: 226, 226
+  offset: 50, 45
+  index: -1
+sb_click_light/sb_vfx_a_add_05
+  rotate: true
+  xy: 1366, 867
+  size: 128, 138
+  orig: 226, 226
+  offset: 50, 44
+  index: -1
+sb_click_light/sb_vfx_a_add_06
+  rotate: false
+  xy: 675, 907
+  size: 128, 140
+  orig: 226, 226
+  offset: 50, 43
+  index: -1
+sb_click_light/sb_vfx_a_add_07
+  rotate: true
+  xy: 778, 327
+  size: 128, 140
+  orig: 226, 226
+  offset: 50, 43
+  index: -1
+sb_click_light/sb_vfx_a_add_08
+  rotate: true
+  xy: 1389, 388
+  size: 124, 139
+  orig: 226, 226
+  offset: 51, 45
+  index: -1
+sb_click_light/sb_vfx_a_add_09
+  rotate: false
+  xy: 1102, 229
+  size: 124, 139
+  orig: 226, 226
+  offset: 51, 45
+  index: -1
+sb_click_light/sb_vfx_a_add_10
+  rotate: true
+  xy: 744, 28
+  size: 77, 139
+  orig: 226, 226
+  offset: 80, 45
+  index: -1
+sb_click_light/sb_vfx_a_add_11
+  rotate: true
+  xy: 675, 1049
+  size: 75, 137
+  orig: 226, 226
+  offset: 81, 46
+  index: -1
+sb_click_light/sb_vfx_a_add_12
+  rotate: true
+  xy: 1046, 370
+  size: 75, 133
+  orig: 226, 226
+  offset: 81, 48
+  index: -1
+sb_click_light/sb_vfx_a_add_13
+  rotate: false
+  xy: 545, 1010
+  size: 74, 110
+  orig: 226, 226
+  offset: 81, 49
+  index: -1
+sb_click_light/sb_vfx_a_add_14
+  rotate: false
+  xy: 675, 885
+  size: 57, 20
+  orig: 226, 226
+  offset: 97, 138
+  index: -1
+sb_click_light/sb_vfx_a_add_15
+  rotate: true
+  xy: 694, 873
+  size: 10, 11
+  orig: 226, 226
+  offset: 144, 147
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_00
+  rotate: false
+  xy: 885, 18
+  size: 88, 87
+  orig: 123, 139
+  offset: 15, 27
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_01
+  rotate: false
+  xy: 1419, 200
+  size: 90, 89
+  orig: 123, 139
+  offset: 11, 27
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_02
+  rotate: false
+  xy: 1074, 6
+  size: 95, 91
+  orig: 123, 139
+  offset: 12, 25
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_03
+  rotate: false
+  xy: 1171, 2
+  size: 95, 95
+  orig: 123, 139
+  offset: 12, 24
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_04
+  rotate: false
+  xy: 1324, 248
+  size: 93, 95
+  orig: 123, 139
+  offset: 14, 25
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_05
+  rotate: false
+  xy: 1230, 146
+  size: 93, 97
+  orig: 123, 139
+  offset: 14, 23
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_06
+  rotate: false
+  xy: 1228, 245
+  size: 94, 98
+  orig: 123, 139
+  offset: 12, 23
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_07
+  rotate: true
+  xy: 975, 18
+  size: 92, 97
+  orig: 123, 139
+  offset: 14, 24
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_08
+  rotate: false
+  xy: 1419, 291
+  size: 85, 95
+  orig: 123, 139
+  offset: 19, 25
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_09
+  rotate: false
+  xy: 1325, 151
+  size: 87, 95
+  orig: 123, 139
+  offset: 19, 26
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_10
+  rotate: true
+  xy: 1414, 113
+  size: 85, 93
+  orig: 123, 139
+  offset: 20, 26
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_00
+  rotate: false
+  xy: 1268, 62
+  size: 72, 82
+  orig: 284, 320
+  offset: 108, 119
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_01
+  rotate: false
+  xy: 1228, 345
+  size: 125, 128
+  orig: 284, 320
+  offset: 83, 96
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_02
+  rotate: false
+  xy: 1372, 1205
+  size: 164, 162
+  orig: 284, 320
+  offset: 66, 77
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_03
+  rotate: false
+  xy: 749, 669
+  size: 193, 191
+  orig: 284, 320
+  offset: 53, 64
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_04
+  rotate: true
+  xy: 744, 107
+  size: 215, 210
+  orig: 284, 320
+  offset: 42, 54
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_05
+  rotate: true
+  xy: 523, 638
+  size: 233, 224
+  orig: 284, 320
+  offset: 32, 47
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_06
+  rotate: false
+  xy: 272, 638
+  size: 249, 233
+  orig: 284, 320
+  offset: 22, 41
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_07
+  rotate: false
+  xy: 551, 1126
+  size: 261, 241
+  orig: 284, 320
+  offset: 14, 36
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_08
+  rotate: false
+  xy: 272, 873
+  size: 271, 247
+  orig: 284, 320
+  offset: 10, 31
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_09
+  rotate: false
+  xy: 272, 1122
+  size: 277, 245
+  orig: 284, 320
+  offset: 7, 33
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_10
+  rotate: false
+  xy: 814, 1158
+  size: 277, 209
+  orig: 284, 320
+  offset: 7, 67
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_11
+  rotate: false
+  xy: 1093, 1161
+  size: 277, 206
+  orig: 284, 320
+  offset: 7, 69
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_12
+  rotate: true
+  xy: 233, 360
+  size: 275, 200
+  orig: 284, 320
+  offset: 9, 68
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_13
+  rotate: true
+  xy: 435, 368
+  size: 268, 193
+  orig: 284, 320
+  offset: 16, 70
+  index: -1
+sym_win_particle_02/wh_vfx_d_spawn_screen_14
+  rotate: false
+  xy: 1222, 475
+  size: 165, 178
+  orig: 284, 320
+  offset: 64, 72
+  index: -1

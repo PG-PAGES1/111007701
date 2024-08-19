@@ -1,0 +1,96 @@
+
+game bg.png
+size: 1386,1314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_light/bw_vfx_d_add
+  rotate: true
+  xy: 684, 1212
+  size: 100, 375
+  orig: 100, 375
+  offset: 0, 0
+  index: -1
+bw_light/mw_vfx_d_add_02
+  rotate: true
+  xy: 378, 1077
+  size: 133, 445
+  orig: 133, 445
+  offset: 0, 0
+  index: -1
+fs_bg_part/bns_bottom
+  rotate: false
+  xy: 587, 423
+  size: 680, 245
+  orig: 680, 245
+  offset: 0, 0
+  index: -1
+fs_bg_part/bns_flare_screen
+  rotate: true
+  xy: 2, 1132
+  size: 103, 374
+  orig: 103, 374
+  offset: 0, 0
+  index: -1
+fs_bg_part/bns_footer
+  rotate: false
+  xy: 2, 66
+  size: 680, 355
+  orig: 680, 355
+  offset: 0, 0
+  index: -1
+fs_bg_part/bns_top_bg
+  rotate: false
+  xy: 684, 2
+  size: 680, 419
+  orig: 680, 419
+  offset: 0, 0
+  index: -1
+fs_bg_part/bns_top_fg_board
+  rotate: false
+  xy: 2, 1237
+  size: 680, 75
+  orig: 680, 75
+  offset: 0, 0
+  index: -1
+fs_top_neon_light/light_bult_01_normal
+  rotate: false
+  xy: 2, 515
+  size: 583, 342
+  orig: 680, 419
+  offset: 54, 64
+  index: -1
+fs_top_neon_light/light_bult_02_normal
+  rotate: false
+  xy: 825, 892
+  size: 559, 318
+  orig: 680, 419
+  offset: 67, 95
+  index: -1
+fs_top_neon_light/light_bult_03_normal
+  rotate: false
+  xy: 608, 670
+  size: 599, 220
+  orig: 680, 419
+  offset: 46, 153
+  index: -1
+fs_top_neon_light/light_bult_04_normal
+  rotate: false
+  xy: 2, 859
+  size: 604, 216
+  orig: 680, 419
+  offset: 39, 160
+  index: -1
+
+game bg2.png
+size: 684,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_bg_part/bns_reel
+  rotate: false
+  xy: 2, 2
+  size: 680, 473
+  orig: 680, 473
+  offset: 0, 0
+  index: -1

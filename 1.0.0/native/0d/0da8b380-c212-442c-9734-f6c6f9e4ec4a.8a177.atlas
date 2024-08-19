@@ -1,0 +1,104 @@
+
+5win.png
+size: 296,732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_light/smw_vfx_b_add
+  rotate: false
+  xy: 2, 501
+  size: 292, 229
+  orig: 292, 229
+  offset: 0, 0
+  index: -1
+bw_light/smw_vfx_e_screen
+  rotate: true
+  xy: 2, 358
+  size: 141, 146
+  orig: 141, 146
+  offset: 0, 0
+  index: -1
+fav_icon_yellow.c0d54
+  rotate: false
+  xy: 2, 2
+  size: 78, 78
+  orig: 88, 88
+  offset: 5, 2
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_00
+  rotate: false
+  xy: 97, 37
+  size: 88, 87
+  orig: 123, 139
+  offset: 15, 27
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_01
+  rotate: false
+  xy: 196, 37
+  size: 90, 89
+  orig: 123, 139
+  offset: 11, 27
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_02
+  rotate: false
+  xy: 198, 217
+  size: 95, 91
+  orig: 123, 139
+  offset: 12, 25
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_03
+  rotate: false
+  xy: 101, 213
+  size: 95, 95
+  orig: 123, 139
+  offset: 12, 24
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_04
+  rotate: true
+  xy: 2, 169
+  size: 93, 95
+  orig: 123, 139
+  offset: 14, 25
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_05
+  rotate: true
+  xy: 150, 310
+  size: 93, 97
+  orig: 123, 139
+  offset: 14, 23
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_06
+  rotate: true
+  xy: 150, 405
+  size: 94, 98
+  orig: 123, 139
+  offset: 12, 23
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_07
+  rotate: true
+  xy: 2, 264
+  size: 92, 97
+  orig: 123, 139
+  offset: 14, 24
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_08
+  rotate: true
+  xy: 99, 126
+  size: 85, 95
+  orig: 123, 139
+  offset: 19, 25
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_09
+  rotate: true
+  xy: 198, 128
+  size: 87, 95
+  orig: 123, 139
+  offset: 19, 26
+  index: -1
+sym_win_particle/wh_vfx_d_loop_screen_10
+  rotate: true
+  xy: 2, 82
+  size: 85, 93
+  orig: 123, 139
+  offset: 20, 26
+  index: -1

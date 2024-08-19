@@ -1,0 +1,69 @@
+
+freeend.png
+size: 1514,1174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_g_add
+  rotate: false
+  xy: 1186, 237
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+mh_vfx_a_add
+  rotate: false
+  xy: 1186, 161
+  size: 221, 74
+  orig: 221, 74
+  offset: 0, 0
+  index: -1
+tw_f_add
+  rotate: false
+  xy: 1302, 718
+  size: 210, 454
+  orig: 210, 454
+  offset: 0, 0
+  index: -1
+tw_vfx_a_normal
+  rotate: false
+  xy: 2, 2
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+tw_vfx_b_add
+  rotate: false
+  xy: 544, 3
+  size: 324, 479
+  orig: 324, 479
+  offset: 0, 0
+  index: -1
+tw_vfx_e_screen
+  rotate: false
+  xy: 870, 157
+  size: 314, 325
+  orig: 314, 325
+  offset: 0, 0
+  index: -1
+tw_vfx_f_normal
+  rotate: false
+  xy: 544, 727
+  size: 756, 445
+  orig: 756, 510
+  offset: 0, 56
+  index: -1
+tw_vfx_g_add
+  rotate: false
+  xy: 870, 5
+  size: 324, 150
+  orig: 324, 150
+  offset: 0, 0
+  index: -1
+tw_vfx_g_normal
+  rotate: false
+  xy: 544, 484
+  size: 732, 241
+  orig: 756, 280
+  offset: 12, 21
+  index: -1

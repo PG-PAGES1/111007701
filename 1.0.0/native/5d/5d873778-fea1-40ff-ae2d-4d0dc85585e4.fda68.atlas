@@ -1,0 +1,34 @@
+
+weiman.png
+size: 1642,1124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bload_curtain_a
+  rotate: true
+  xy: 2, 2
+  size: 364, 1638
+  orig: 364, 1638
+  offset: 0, 0
+  index: -1
+bload_curtain_b
+  rotate: true
+  xy: 2, 368
+  size: 359, 1638
+  orig: 359, 1638
+  offset: 0, 0
+  index: -1
+bload_curtain_c
+  rotate: false
+  xy: 760, 729
+  size: 756, 393
+  orig: 756, 393
+  offset: 0, 0
+  index: -1
+bload_curtain_d
+  rotate: false
+  xy: 2, 795
+  size: 756, 327
+  orig: 756, 327
+  offset: 0, 0
+  index: -1
